@@ -617,5 +617,5 @@ while True:
 
 print("Kidong Bot Start!")
 
-
-client.run("NjIyMDM1NzA0NjkxODE4NTE2.XavsVg.M3TGB7sMSWN-fEaQ6xXaawDW2kc")
+access_token = os.environ["BOT_TOKEN"]
+client.run(access_token)
