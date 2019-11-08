@@ -1,3 +1,9 @@
 discord.py==0.16.12
-captcha==0.3
-Pillow==6.2.1
+datetime.py==0.16.12
+openpyxl.py==0.16.12
+asyncio.py==0.16.12
+loads.py==0.16.12
+configparser.py==0.16.12
+random.py==0.16.12
+captcha.py==0.3
+Pillow.py==6.2.1
